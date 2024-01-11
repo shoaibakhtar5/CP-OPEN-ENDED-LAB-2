@@ -1,0 +1,3 @@
+﻿  source.cpp
+C:\Users\DEll\source\repos\kkkk\kkkk\source.cpp(25,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  kkkk.vcxproj -> C:\Users\DEll\source\repos\kkkk\x64\Debug\kkkk.exe
